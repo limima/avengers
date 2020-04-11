@@ -1,5 +1,6 @@
 # Miembros
 
+* pink panther
 * Black panther
 * Black Widow
 * Capitán America
